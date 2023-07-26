@@ -22,21 +22,22 @@ The minimax algorithm is used in game theory and decision-making to determine th
 
 how it works : The algorithm creates a game tree with a heuristic function, evaluating nodes and choosing the highest and lowest scores for maximizing and minimizing players. It explores the tree recursively until a terminal state, where it assigns a score based on the heuristic function.
 
-<img src="R1.PNG" alt="Image" width="620px" height="auto">
+<img src="download.jpg" alt="Image" width="620px" height="auto">
+
 
 # Alpha Beta pruning
 The alpha-beta pruning algorithm is a powerful technique for searching game trees and finding optimal moves in games with multiple alternative moves. It reduces the search tree size and eliminates the need to analyze all potential game pathways. 
 
 how it works : The algorithm evaluates nodes in the game tree using a heuristic function, tracking alpha and beta values. It prunes branches with scores below beta and higher alpha values, updating until reaching maximum depth or pruning unlikely branches. It selects the highest score move as the best for the player
 
-<img src="R1.PNG" alt="Image" width="620px" height="auto">
+<img src="1_NKzsRiAxa_oiikgbLyLCyw.png" alt="Image" width="620px" height="auto">
 
 ## Methodology
 
 
 ## Result 
 
-
+https://github.com/AyaFouda2002/connect-4-game/blob/master/WhatsApp%20Video%202023-07-18%20at%2012.23.19%20AM.mp4
 
 ## Conclusion
 
